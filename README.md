@@ -5,5 +5,5 @@ La idea de estos proyectos es la de testear el funcionamiento de cada dispositiv
 ## [SHT20](https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/SHT20) 🌡️💧 
 
 Este es un sensor de temperatura y humedad que funciona por I2C.
-
+![alt text](https://cdn-shop.adafruit.com/1200x900/4099-09.jpg)
 
