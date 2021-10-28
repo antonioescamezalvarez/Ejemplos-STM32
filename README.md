@@ -7,3 +7,9 @@ La idea de estos proyectos es la de testear el funcionamiento de cada dispositiv
 El SHT20 es un sensor de temperatura y humedad que funciona por I2C.
 
 <img src="https://cdn-shop.adafruit.com/1200x900/4099-09.jpg" width="300" height="200" />
+
+## [Lora P2P](https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/SHT20) 🌡️💧 
+
+Un pequeñisimo ejemplo de comunicación punto a punto utilizando Lora.
+
+<img src="https://cdn-shop.adafruit.com/1200x900/4099-09.jpg" width="300" height="200" />
