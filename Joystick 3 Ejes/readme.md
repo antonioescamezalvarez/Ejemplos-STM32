@@ -20,3 +20,7 @@ El pinout que hemos seleccionado es el siguiente
 Primeramente seleccionamos el ADC1 y habilitamos 3 canales de lectura (uno para cada eje)
 
 <img src="https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/Joystick%203%20Ejes/ADC.png" width="400" />
+
+Configuramos el modo de conversión continua, el modo scan, y el DMA, indicamos el numero de conversiones (3 una por cada canal).
+
+<img src="https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/Joystick%203%20Ejes/Config1.png" width="400" />
