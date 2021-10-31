@@ -19,4 +19,4 @@ El pinout que hemos seleccionado es el siguiente
 
 Primeramente seleccionamos el ADC1 y habilitamos 3 canales de lectura (uno para cada eje)
 
-<img src="https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/Joystick%203%20Ejes/ADC1.png" width="200" />
+<img src="https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/Joystick%203%20Ejes/ADC.png" width="200" />
