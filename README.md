@@ -13,3 +13,9 @@ El SHT20 es un sensor de temperatura y humedad que funciona por I2C.
 Un pequeñisimo ejemplo de comunicación punto a punto utilizando Lora.
 
 <img src="https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/Lora%20P2P/photo1635430161.jpg" width="300" height="200" />
+
+## [Joystick 3 Ejes](https://github.com/antonioescamezalvarez/Ejemplos-STM32/tree/main/Joystick%203%20Ejes)
+
+En este pequeño código veremos como leer un Joystick de 3 ejes utilizando DMA
+
+<img src="https://tienda.bricogeek.com/5660-thickbox_default/joystick-profesional-de-3-ejes.jpg" width="300" height="200" />
