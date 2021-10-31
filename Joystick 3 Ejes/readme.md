@@ -16,3 +16,7 @@ Para leer los 3 ejes vamos a hacer uso del DMA para liberar al microcontrolador 
 El pinout que hemos seleccionado es el siguiente
 
 <img src="https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/Joystick%203%20Ejes/Pinout.png" width="600" />
+
+Primeramente seleccionamos el ADC1 y habilitamos 3 canales de lectura (uno para cada eje)
+
+<img src="https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/Joystick%203%20Ejes/ADC1.png" width="200" />
