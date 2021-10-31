@@ -24,3 +24,11 @@ Primeramente seleccionamos el ADC1 y habilitamos 3 canales de lectura (uno para 
 Configuramos el modo de conversión continua, el modo scan, y el DMA, indicamos el numero de conversiones (3 una por cada canal).
 
 <img src="https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/Joystick%203%20Ejes/Config1.png" width="400" />
+
+Indicamos en los Rank los diferentes canales que vamos a leer asi como los ciclos de reloj que vamos a emplear en cada conversión.
+
+<img src="https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/Joystick%203%20Ejes/Config2.png" width="400" />
+
+Por último habilitamos el DMA en modo Circular con incremento de la dirección de memoria y con un tamaño de palabra de HALF WORD
+
+<img src="https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/Joystick%203%20Ejes/Config3.png" width="400" />
