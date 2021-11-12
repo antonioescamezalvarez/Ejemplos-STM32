@@ -1,3 +1,4 @@
 El BMV 700 envia los datos por uart a 19200 baudios por segundos. 
 
-Pese a que el pinout oficial indica que 
+El pinout del BMV 700 es el siguiente:
+<img src="https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/BMV%20700%20Victron%20Energy/BMV700%20Pinout.png" width="500" />
