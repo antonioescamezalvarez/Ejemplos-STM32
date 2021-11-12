@@ -10,4 +10,6 @@ En nuestro caso haremos uso del GND y del pin TX (cabe destacar que en mi caso e
 
 <img src="https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/BMV%20700%20Victron%20Energy/bmv702-2.jpg" width="500" />
 
+Los datos se envian al pc por uart encapsulados con una cabecera de inicio y otra de fin que delimita el paquete de datos.
+
 
