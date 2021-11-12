@@ -19,3 +19,9 @@ Un pequeñisimo ejemplo de comunicación punto a punto utilizando Lora.
 En este pequeño código veremos como leer un Joystick de 3 ejes utilizando DMA
 
 <img src="https://tienda.bricogeek.com/5660-thickbox_default/joystick-profesional-de-3-ejes.jpg" width="300" height="200" />
+
+## [BMV 700 Victron Energy](https://github.com/antonioescamezalvarez/Ejemplos-STM32/tree/main/BMV%20700%20Victron%20Energy)
+
+Veremos como leer los datos del BMV 700
+
+<img src="https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/BMV%20700%20Victron%20Energy/Victron-Battery-Monitor-BMV-700.jpg" width="300" height="200" />
