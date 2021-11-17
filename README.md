@@ -28,4 +28,6 @@ Veremos como leer los datos del BMV 700
 
 ## [Temporizador](https://github.com/antonioescamezalvarez/Ejemplos-STM32/tree/main/Temporizador)
 
+Pequeña librería para controlar tareas periódicas tal y como haría un PLC, se indica el tiempo encendido y el tiempo apagado.
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Reloj_flat.svg" width="200" height="200" />
