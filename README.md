@@ -25,3 +25,7 @@ En este pequeño código veremos como leer un Joystick de 3 ejes utilizando DMA
 Veremos como leer los datos del BMV 700
 
 <img src="https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/BMV%20700%20Victron%20Energy/Victron-Battery-Monitor-BMV-700.jpg" width="300" height="200" />
+
+## [Temporizador]()
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Reloj_flat.svg" width="300" height="200" />
