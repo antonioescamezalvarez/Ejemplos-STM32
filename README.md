@@ -28,4 +28,4 @@ Veremos como leer los datos del BMV 700
 
 ## [Temporizador]()
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Reloj_flat.svg" width="400" height="200" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Reloj_flat.svg" width="200" height="200" />
