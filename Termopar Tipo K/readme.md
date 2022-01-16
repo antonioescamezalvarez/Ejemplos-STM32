@@ -2,7 +2,7 @@ Es importante entender el funcionamiento del módulo MAX6675.
 Primeramente comentar que este módulo funciona por SPI.
 Si observamos el datasheet podemos ver que cuando seleccionamos el dispositivo poniendo a bajo el CS el módulo nos va a enviar 16 bits con la siguiente configuración
 
-# Trama de bits
+## Trama de bits
 
 <img src="https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/Termopar%20Tipo%20K/BITS.png" width="700" />
 
