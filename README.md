@@ -8,6 +8,12 @@ El SHT20 es un sensor de temperatura y humedad que funciona por I2C.
 
 <img src="https://cdn-shop.adafruit.com/1200x900/4099-09.jpg" width="300" height="200" />
 
+## [Termopar Tipo k](https://github.com/antonioescamezalvarez/Ejemplos-STM32/tree/main/Termopar%20Tipo%20K)
+
+Ejemplo básico de funcionamiento del MAX6675 para leer termopares tipo K
+
+<img src="https://ae01.alicdn.com/kf/HTB1SQIua1H2gK0jSZFEq6AqMpXaH/Sensor-de-temperatura-termopar-tipo-K-tubo-de-cer-mica-de-corind-n-SUS304-de-300.jpg_Q90.jpg_.webp" width="200" height="200" />
+
 ## [Lora P2P](https://github.com/antonioescamezalvarez/Ejemplos-STM32/tree/main/Lora%20P2P) 📡📶
 
 Un pequeñisimo ejemplo de comunicación punto a punto utilizando Lora.
