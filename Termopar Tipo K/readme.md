@@ -17,7 +17,8 @@ El código es tan sencillo que no se ha creado ningún tipo de librería ni se h
 <img src="https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/Termopar%20Tipo%20K/EjemploCodigo.png" width="700" />
 
 Y las variables que hemos creado son las siguientes
-<img src="https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/Termopar%20Tipo%20K/Variables.png" width="300" />
+
+<img src="https://github.com/antonioescamezalvarez/Ejemplos-STM32/blob/main/Termopar%20Tipo%20K/Variables.png" width="200" />
 
 ## Montaje
 Por último dejo una foto del montaje para visualizar los elementos
