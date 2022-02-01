@@ -12,3 +12,5 @@ El response por su lado consiste en 3 bytes de cabecera (no los necesitamos cons
 CO % = ([BYTE3]*256 +[BYTE4])/100
 
 <img src="https://github.com/antonioescamezalvarez/STM32/blob/main/Cromatografo%20GASBOARD%203100p/Codigo.png" width="600" />
+
+<img src="https://github.com/antonioescamezalvarez/STM32/blob/main/Cromatografo%20GASBOARD%203100p/Resumen.jpg" width="600" />
