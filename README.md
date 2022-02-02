@@ -14,6 +14,12 @@ Ejemplo básico de funcionamiento del MAX6675 para leer termopares tipo K
 
 <img src="https://ae01.alicdn.com/kf/HTB1SQIua1H2gK0jSZFEq6AqMpXaH/Sensor-de-temperatura-termopar-tipo-K-tubo-de-cer-mica-de-corind-n-SUS304-de-300.jpg_Q90.jpg_.webp" width="300" height="200" />
 
+## [NTC](https://github.com/antonioescamezalvarez/STM32/tree/main/NTC)
+
+Ejemplo básico de como trabajar con una NTC para leer temperaturas
+
+<img src="https://github.com/antonioescamezalvarez/STM32/blob/main/NTC/NTC.jpg" width="300" height="200" />
+
 ## [Lora P2P](https://github.com/antonioescamezalvarez/Ejemplos-STM32/tree/main/Lora%20P2P) 📡📶
 
 Un pequeñisimo ejemplo de comunicación punto a punto utilizando Lora.
