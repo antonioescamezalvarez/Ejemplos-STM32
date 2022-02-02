@@ -7,3 +7,7 @@ Basicamente esta ecuación necesita calcular 3 parámetros A B y C, para ello re
 Cabe destacar que la conexión de la NTC se realiza en la configuración de divisor de tensión.
 
 <img src="https://github.com/antonioescamezalvarez/STM32/blob/main/NTC/NTC%20Conexion.jpg" width="400" height="300" />
+
+En mi caso he utilizado este sensor de temperatura para monitorizar el tiempo que tarda en enfriarse un volumen de agua desde una temperatura hasta otra fijada, para poder corroborar empiricamente las ecuaciones de convección para la asignatura de Termodinámica de la Universidad.
+
+<img src="https://github.com/antonioescamezalvarez/STM32/blob/main/NTC/photo5998843263013992447.jpg" width="400" height="300" />
