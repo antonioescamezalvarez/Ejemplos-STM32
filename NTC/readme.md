@@ -5,3 +5,5 @@ En nuestro caso utilizamos la ecuación de Steinhart-Hart (3 parámetros) la cua
 Basicamente esta ecuación necesita calcular 3 parámetros A B y C, para ello realizamos 3 medidas de resistencia de la NTC a diferentes temperaturas, el método mas fácil es medir en agua con hielo (0ºC) agua hirviendo (100ºC) y a temperatura ambiente, introducimos los datos y obtenemos los valores de A B y C.
 
 Cabe destacar que la conexión de la NTC se realiza en la configuración de divisor de tensión.
+
+<img src="https://github.com/antonioescamezalvarez/STM32/blob/main/NTC/NTC%20Conexion.jpg" width="400" height="300" />
